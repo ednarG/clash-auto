@@ -72,3 +72,7 @@ IP-CIDR,142.250.0.0/16,no-resolve
 # 个人添加
 DOMAIN,community.oneplus.com
 IP-CIDR,104.91.68.0/23,no-resolve
+
+# CDN
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
