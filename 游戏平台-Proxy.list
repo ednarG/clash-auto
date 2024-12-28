@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,playartifact.com
 DOMAIN,steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,steamcloud-ugc.storage.googleapis.com
 #其他平台
+DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,helpshift.com
