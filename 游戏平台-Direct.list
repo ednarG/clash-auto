@@ -1,4 +1,4 @@
-#Steam
+# Steam
 DOMAINSUFFIX,cm.steampowered.com
 DOMAINSUFFIX,steamcontent.com
 DOMAINSUFFIX,steamusercontent.com
@@ -17,7 +17,7 @@ DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAINSUFFIX,steamchina.com
 
-#https://ipinfo.io/AS32590#block-ranges
+# https://ipinfo.io/AS32590#block-ranges
 IP-CIDR,155.133.236.0/23,DIRECT,no-resolve
 IP-CIDR,155.133.238.0/24,DIRECT,no-resolve
 IP-CIDR,155.133.240.0/23,DIRECT,no-resolve
