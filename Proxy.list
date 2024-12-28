@@ -70,6 +70,8 @@ IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
 
 # 个人添加
+DOMAIN,suburl.v1.mk
+DOMAIN,sub.v1.mk
 DOMAIN,community.oneplus.com
 IP-CIDR,104.91.68.0/23,no-resolve
 
