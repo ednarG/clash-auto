@@ -48,3 +48,8 @@ IP-CIDR,208.64.202.0/24,DIRECT,no-resolve
 IP-CIDR,208.64.203.0/24,DIRECT,no-resolve
 IP-CIDR,208.78.164.0/22,DIRECT,no-resolve
 IP-CIDR,45.121.184.0/24,DIRECT,no-resolve
+
+# Uplay
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com,DIRECT
+# DOMAIN-SUFFIX,public-ubiservices.ubi.com,DIRECT
+# DOMAIN,connect.ubisoft.com,DIRECT
