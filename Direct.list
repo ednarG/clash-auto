@@ -586,3 +586,13 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+#个人添加
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN,software.download.prss.microsoft.com
+DOMAIN-SUFFIX,www.dogfight360.com
+DOMAIN,gs2.ww.prod.dl.playstation.net
+DOMAIN-KEYWORD,vivox,DIRECT
+DOMAIN-SUFFIX,vivox.com,DIRECT
+IP-CIDR,42.186.128.0/17,DIRECT
+IP-CIDR,42.186.0.0/16,DIRECT
