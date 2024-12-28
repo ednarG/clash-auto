@@ -15,7 +15,8 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,playartifact.com
-
+DOMAIN,steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com
+DOMAIN-SUFFIX,steamcloud-ugc.storage.googleapis.com
 #其他平台
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
