@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.cc
 DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,wbimg.cn
-DOMAIN-SUFFIX,wbimg.com
-DOMAIN-SUFFIX,sinaimg.cn
+#DOMAIN-SUFFIX,wbimg.cn
+#DOMAIN-SUFFIX,wbimg.com
+#DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-KEYWORD,weibo
 
 # 其乐论坛
