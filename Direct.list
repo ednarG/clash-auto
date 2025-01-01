@@ -25,7 +25,7 @@ DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,www.dogfight360.com
 DOMAIN,gs2.ww.prod.dl.playstation.net
-DOMAIN-KEYWORD,vivox,DIRECT
+DOMAIN-KEYWORD,vivox
 DOMAIN-SUFFIX,vivox.com
 IP-CIDR,42.186.128.0/17,no-resolve
 IP-CIDR,42.186.0.0/16,no-resolve
