@@ -75,7 +75,3 @@ DOMAIN,sub.v1.mk
 DOMAIN,community.oneplus.com
 IP-CIDR,104.91.68.0/23,no-resolve
 DOMAIN,tagss.pro
-
-# CDN
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,cdn.jsdelivr.net
