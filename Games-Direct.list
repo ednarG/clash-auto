@@ -53,3 +53,9 @@ IP-CIDR,45.121.184.0/24,DIRECT,no-resolve
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com,DIRECT
 # DOMAIN-SUFFIX,public-ubiservices.ubi.com,DIRECT
 # DOMAIN,connect.ubisoft.com,DIRECT
+
+#  Battlenet
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,blizzard.cn
+DOMAIN-SUFFIX,blizzardgames.cn
+DOMAIN-SUFFIX,blzstatic.cn
