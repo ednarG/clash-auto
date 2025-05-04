@@ -48,4 +48,4 @@ DOMAIN-SUFFIX,claude.ai
 #DOMAIN-SUFFIX,x.ai
 
 #Apple Intelligence
-Domain,apple-relay.apple.com
+DOMAIN,apple-relay.apple.com
