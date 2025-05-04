@@ -1,3 +1,6 @@
+#Apple Intelligence
+DOMAIN,apple-relay.apple.com
+
 #Copilot
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
@@ -46,6 +49,3 @@ DOMAIN-SUFFIX,claude.ai
 #DOMAIN-SUFFIX,grok.com
 #DOMAIN-SUFFIX,x.com
 #DOMAIN-SUFFIX,x.ai
-
-#Apple Intelligence
-DOMAIN,apple-relay.apple.com
