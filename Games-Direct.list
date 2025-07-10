@@ -16,6 +16,8 @@ DOMAIN,steamstatic.com.8686c.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN,trts.baishancdnx.cn
 
 # https://ipinfo.io/AS32590#block-ranges
 IP-CIDR,155.133.236.0/23,DIRECT,no-resolve
@@ -50,9 +52,10 @@ IP-CIDR,208.78.164.0/22,DIRECT,no-resolve
 IP-CIDR,45.121.184.0/24,DIRECT,no-resolve
 
 # Uplay
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com,DIRECT
-# DOMAIN-SUFFIX,public-ubiservices.ubi.com,DIRECT
-# DOMAIN,connect.ubisoft.com,DIRECT
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+# DOMAIN-SUFFIX,public-ubiservices.ubi.com
+# DOMAIN,connect.ubisoft.com
 
 # Blizzard CN
 DOMAIN-SUFFIX,battlenet.com.cn
@@ -69,3 +72,9 @@ DOMAIN-SUFFIX,overwatch.nosdn.127.net
 DOMAIN-SUFFIX,sc2.nosdn.127.net
 DOMAIN-SUFFIX,wow.nosdn.127.net
 DOMAIN-SUFFIX,wowchina.com
+
+# Microsoft
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,dl.delivery.mp.microsoft.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
