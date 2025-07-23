@@ -34,5 +34,6 @@ DOMAIN,xp.itunes.apple.com
 # DOMAIN,xp.itunes-apple.com.akadns.net
 DOMAIN,init.itunes.apple.com
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN,updates.cdn-apple.com
 DOMAIN-SUFFIX,ts3.red
 DOMAIN-SUFFIX,ts3.com
