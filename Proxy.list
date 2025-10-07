@@ -86,6 +86,7 @@ DOMAIN,ping0.cc
 DOMAIN,www.sms4u.vip
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,dler.io
 
 #T-Moible Wifi Calling
 IP-CIDR,66.94.0.0/19
