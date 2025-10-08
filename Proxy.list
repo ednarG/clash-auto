@@ -6,6 +6,17 @@ DOMAIN,news-client-search.apple.com
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
 
+# T-Moible Wifi Calling
+IP-CIDR,66.94.0.0/19
+IP-CIDR,206.29.177.36/32
+IP-CIDR,208.54.0.0/16
+DOMAIN-SUFFIX,t-mobile.com
+#DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+#DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+#DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+#DOMAIN,epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,pub.3gppnetwork.org
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
@@ -86,10 +97,3 @@ DOMAIN,www.sms4u.vip
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,dler.io
-
-#T-Moible Wifi Calling
-IP-CIDR,66.94.0.0/19
-IP-CIDR,206.29.177.36/32
-IP-CIDR,208.54.0.0/16
-DOMAIN-SUFFIX,t-mobile.com
-DOMAIN-SUFFIX,pub.3gppnetwork.org
