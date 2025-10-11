@@ -11,7 +11,7 @@ IP-CIDR,17.248.152.145/24,no-resolve
 IP-CIDR,17.248.152.113/24,no-resolve
 #DOMAIN-KEYWORD,apple-relay
 
-#App Store
+# App Store
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
 
