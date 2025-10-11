@@ -9,6 +9,7 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
 IP-CIDR,17.248.152.145/24,no-resolve
 IP-CIDR,17.248.152.113/24,no-resolve
+#DOMAIN-KEYWORD,apple-relay
 
 #App Store
 DOMAIN,apps.apple.com
