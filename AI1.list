@@ -1,14 +1,19 @@
 # Apple Intelligence、Siri和搜索
-DOMAIN-SUFFIX,apple-relay.apple.com
+#Siri 和聽寫要求
+DOMAIN-SUFFIX,guzzoni.apple.com
+#搜尋服務，包括 Siri、Spotlight、「查詢」、Safari、「新聞」、「訊息」和「音樂」
+DOMAIN-SUFFIX,smoot.apple.com
+#私密雲端運算
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
-# DOMAIN-SUFFIX,guzzoni.apple.com
-# DOMAIN-SUFFIX,smoot.apple.com
-# DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-# DOMAIN-SUFFIX,cp4.cloudflare.com
-# DOMAIN,gspe1-ssl.ls.apple.com
-# DOMAIN,news-client-search.apple.com
-# IP-CIDR,17.248.152.145/24,no-resolve
-# IP-CIDR,17.248.152.113/24,no-resolve
+DOMAIN-SUFFIX,cp4.cloudflare.com
+#Apple Intelligence 延伸功能
+DOMAIN-SUFFIX,apple-relay.apple.com
+#新闻和定位
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+IP-CIDR,17.248.152.145/24,no-resolve
+IP-CIDR,17.248.152.113/24,no-resolve
 # DOMAIN-KEYWORD,apple-relay
 
 # Copilot
@@ -76,3 +81,4 @@ DOMAIN-SUFFIX,claude.ai
 # DOMAIN-SUFFIX,grok.com
 # DOMAIN-SUFFIX,x.com
 # DOMAIN-SUFFIX,x.ai
+
