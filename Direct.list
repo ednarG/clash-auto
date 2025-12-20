@@ -41,3 +41,13 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
+
+# tag订阅
+DOMAIN-SUFFIX,siamparagon.org
+DOMAIN,rama991.siamparagon.org
+DOMAIN-SUFFIX,nobodys.uk
+DOMAIN,link01.nobodys.uk
+DOMAIN-SUFFIX,central-world.org
+DOMAIN,huaikhwang.central-world.org
+DOMAIN-SUFFIX,parkson-market.org
+DOMAIN,villa.parkson-market.org
