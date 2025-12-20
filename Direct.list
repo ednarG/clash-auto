@@ -23,6 +23,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # 个人添加
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
+DOMAIN,software-static.download.prss.microsoft.com
 DOMAIN-SUFFIX,www.dogfight360.com
 DOMAIN,gs2.ww.prod.dl.playstation.net
 DOMAIN-KEYWORD,vivox
